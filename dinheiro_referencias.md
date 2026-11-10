@@ -83,7 +83,8 @@ Parte considerável da narrativa mesopotâmica de Graeber foi construída a part
 
 Em [*An Outline of the Origins of Money*](https://haubooks.org/schurtz_origins_of_money/), de [Heinrich Schurtz](https://www.researchgate.net/scientific-contributions/Heinrich-Schurtz-2302039688?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), traduzido e organizado por [Enrique Martino](https://www.researchgate.net/profile/Enrique-Martino-2) e [Mario Schmidt](https://www.researchgate.net/scientific-contributions/Mario-Schmidt-2302033250), com prefácio de [Michael Hudson](https://www.researchgate.net/scientific-contributions/Michael-Hudson-2302039382?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19), Hudson escreve *The Institutional-Systemic Origins of Money*.
 
-Outro texto de Hudson é [*Origins of Money and Interest: Palatial Credit, not Barter*](https://www.academia.edu/38170454/Origins_of_Money_and_Interest_Palatial_Credit_not_Barter), também disponível no [site do autor](https://michael-hudson.com/2018/04/palatial-credit-origins-of-money-and-interest/).
+Outro texto de Hudson é [*Origins of Money and Interest: Palatial Credit, not Barter*](https://www.academia.edu/38170454/Origins_of_Money_and_Interest_Palatial_Credit_not_Barter), 
+(https://michael-hudson.com/2018/04/palatial-credit-origins-of-money-and-interest/).
 
 Nesses dois textos, Hudson faz uma análise extensa da origem do dinheiro em sistemas monetários antigos. E ajuda a responder à questão que economistas como Murphy haviam indagado para Graeber sobre os critérios de equivalência praticados nos centros administrativos sem a existência de comércio:
 
