@@ -1,6 +1,11 @@
 ---
-title: "Qual é o problema do dinheiro? — Referências e notas"
+title: "Qual é o problema do dinheiro? — Referências"
 permalink: /dinheiro/
+tipo: nota
+numero: 1
+codigo: "01"
+titulo: "Qual é o problema do dinheiro?"
+resumo: "Escambo, crédito, dívida e origens do dinheiro"
 ---
 
 # Qual é o problema do dinheiro?
