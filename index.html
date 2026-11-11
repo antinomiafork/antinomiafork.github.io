@@ -1,3 +1,6 @@
+---
+layout: null
+---
 
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -14,7 +17,8 @@
 
     <title>antinomia.fork</title>
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/notas.css' | relative_url }}">
 </head>
 
 <body>
@@ -185,6 +189,85 @@
             </nav>
 
             <div class="divider"></div>
+
+            
+<!-- NOTAS COMPLEMENTARES -->
+
+{% assign notas = site.pages | where: 'tipo', 'nota' | sort: 'numero' | reverse %}
+
+<section class="notes-section"
+         aria-label="Notas complementares dos episódios">
+
+    <div class="notes-path">
+        ~/antinomia.fork/notes
+    </div>
+
+    <details class="notes-accordion">
+
+        <summary class="notes-summary">
+
+            <svg class="notes-branch" aria-hidden="true">
+                <use href="#git-branch"/>
+            </svg>
+
+            <span class="notes-summary-text">
+                <strong>Notas complementares</strong>
+                <small>Referências e debates por episódio</small>
+            </span>
+
+            <span class="notes-count">
+                {{ notas.size }}
+            </span>
+
+            <span class="notes-toggle" aria-hidden="true"></span>
+
+        </summary>
+
+        <div class="notes-list">
+
+            {% for nota in notas %}
+
+            <a class="notes-item"
+               href="{{ nota.url | relative_url }}">
+
+                <span class="notes-id">
+                    #{{ nota.codigo | default: nota.numero }}
+                </span>
+
+                <span class="notes-item-text">
+
+                    <strong>
+                        {{ nota.titulo | default: nota.title | escape }}
+                    </strong>
+
+                    {% if nota.resumo %}
+                    <small>{{ nota.resumo | escape }}</small>
+                    {% endif %}
+
+                </span>
+
+                <span class="notes-arrow" aria-hidden="true">
+                    ↗
+                </span>
+
+            </a>
+
+            {% else %}
+
+            <p class="notes-empty">
+                Nenhuma nota publicada ainda.
+                <span>more commits soon_</span>
+            </p>
+
+            {% endfor %}
+
+        </div>
+
+    </details>
+
+</section>
+
+<div class="divider"></div>
 
             <!-- RODAPÉ -->
 
