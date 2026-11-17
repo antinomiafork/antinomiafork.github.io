@@ -8,9 +8,9 @@ titulo: "A competição é uma lei da natureza? — Referências"
 resumo: "Competição, cooperação, evolução, biologia e ajuda mútua"
 ---
 
-# Qual é o problema do dinheiro?
+# A competição é uma lei da natureza?
 
-**antinomia.fork — Episódio 01**
+**antinomia.fork — Episódio 02**
 
 A natureza pode ser descrita como um grande coliseu de guerra de todos contra todos? O que a biologia evolutiva, antropologia e a históri têm a dizer sobre essa hipótese? Neste vídeo, partimos de *Apoio Mútuo: um fator de evolução*, de Piotr Kropotkin, para avaliarmos essa hipótese com mais profundidade: veremos como a cooperação pode ser vantajosa tanto no mundo animal, dos micro-organismos e também dentre humanos.
 
